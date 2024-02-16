@@ -1,3 +1,3 @@
 # hello-jeffrey
 
-Hey man!
+Hey man! I'm really glad you are learning git!
